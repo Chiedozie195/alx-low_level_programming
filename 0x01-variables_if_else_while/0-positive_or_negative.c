@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/** more headers goes there */
+/** more headers goes there 
 * main - print a random number and state whether
 *         it is a postive, negative, or zero
 *
